@@ -1,0 +1,12 @@
+@media only screen and (max-width : 991px)  {
+    .display{
+        display: block;
+    }
+    .DATAONE{
+        left: 30px;
+        width: 50%;
+    }
+}
+
+
+
